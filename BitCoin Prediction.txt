@@ -1,0 +1,40 @@
+BitCoin Prediction 
+
+Business Requirements:
+
+1)Volume :
+   * Does volume determines the price
+   * Is there a threshold for Vol. beyond which significant changes in the Price occur?
+
+2)Opening Price:
+   * How often does the Open price predict the High or Low of the day?
+   * Is there a pattern where the Open price is closer to the High or the Low price during high-volume days?
+   * Can the difference between Open and Price (closing price) be predicted using historical data?
+
+3) High and Low Price Movements:
+   * How often does the High price exceed the previous day’s Price by more than a certain percentage?
+   * What is the typical difference between High and Low prices on days with significant Change % values?
+   * Does a negative Change % correlate with lower volumes the next day?
+
+4) Market Timing:
+   * What is the average difference between Open and Price for days with unusually high Vol.?
+   * Can significant changes in Change % be predicted by analyzing the relationship between Open, High, and Low prices?
+
+5) Risk and Volatality
+   * Does a larger range between High and Low indicate higher Change % on the same day?
+   * Are periods of high Vol. more likely to lead to extreme daily ranges (High vs. Low)?
+
+6)Market Momentum
+   * Are there momentum trends where consecutive days of positive Change % lead to larger increases in Price over the week?
+   * Does a series of low-volume days (Vol.) predict a sudden spike in trading activity and price movement?
+
+7)Festive Season Trends:
+   * How does Vol. (trading volume) change during festive months? Are there spikes in activity during these periods?
+  * Is the Change % more volatile during the holiday season( November to January) due to increased or decreased market participation?
+  * Are there correlations between increased consumer spending during festive seasons and a rise in cryptocurrency prices?
+
+Bank Closing Month Questions:
+
+8)End-of-Financial-Year Trends:
+  * Does Bitcoin's Price or Vol. show noticeable changes in March/April (end of the fiscal year in many countries) or December (calendar year-end)?
+  * Do Bitcoin prices behave differently during the last month of each quarter (March, June, September, December)?
